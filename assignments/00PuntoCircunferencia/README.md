@@ -20,6 +20,8 @@ el programa la va a ignorar al ejecutarse.
 
 Escriba un programa que pida el radio y las coordenadas del centro de una circunferencia, así como las coordenadas de un punto. El programa deberá indicar si el punto está sobre la circunferencia, dentro o fuera de ella. Investiga o recuerda la fórmula del calculo de distancia entre dos puntos porque la vas a necesitar.
 
+Puedes consultar la [fórmula de la distancia entre dos puntos](https://es.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-distance-and-midpoints/a/distance-formula).
+
 **Entradas**
 - radio (flotante)
 - x1 Coordenada x del centro de la circunferencia (flotante)
@@ -60,5 +62,5 @@ DENTRO
 este programa, pero es una buena práctica incluirla y quedará más
 claro para que sirve en los siguientes ejercicios.
 
-Una vez que termines tu actividad y la hayas probado con `pytest` o `pytest --tb=short`,
+Una vez que termines tu actividad y la hayas probado,
 subela a tu repositorio en GitHub, con el proceso de commit + push.
